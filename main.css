@@ -75,6 +75,7 @@ section {
 
 section p {
     margin-bottom: 8px;
+    text-align: justify;
 }
 
 .store-font {
